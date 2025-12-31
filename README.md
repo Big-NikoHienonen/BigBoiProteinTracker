@@ -31,11 +31,4 @@ A simple and lightweight iOS app to help you track your daily protein intake and
 3.  Select an iPhone simulator or connect a physical device.
 4.  Click the "Run" button (▶) to build and run the app.
 
-## 📸 Screenshots
 
-| Main Screen |
-| :---: |
-| <img width="386" height="849" alt="Screenshot 2025-12-30 at 10 27 56" src="https://github.com/user-attachments/assets/5d8d5a92-af73-4a73-be36-2d9f2e704207" />
-|
-
----

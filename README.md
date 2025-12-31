@@ -4,6 +4,8 @@
 
 A simple and lightweight iOS app to help you track your daily protein intake and smash your fitness goals.
 
+*Sponsored by Futurice's open source program
+
 ## 🌟 Features
 
 *   **Log Your Protein:** Quickly add protein entries throughout the day.

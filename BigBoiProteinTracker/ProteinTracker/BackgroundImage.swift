@@ -12,7 +12,7 @@ struct BackgroundImage: View {
         Image("mutant")
             .resizable()
             .scaledToFill()
-            .edgesIgnoringSafeArea(.vertical)
+            .edgesIgnoringSafeArea(.all)
         
     }
 }

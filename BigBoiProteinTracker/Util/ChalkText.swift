@@ -14,7 +14,7 @@ struct ChalkTextModifier: ViewModifier {
             .font(
                 .custom("Chalkduster", size: size))
             .foregroundColor(.white)
-            .multilineTextAlignment(.center)
+        
     }
 }
 
